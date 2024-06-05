@@ -14,6 +14,6 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
-# gemini_function_calling
+# Gemini Function Calling
 
 This notebook provides a simple example for using Function Calling within Gemini to access data from external API's for grounding. For more information please visit https://cloud.google.com/vertex-ai/generative-ai/docs/multimodal/function-calling#function-parameters-bp
