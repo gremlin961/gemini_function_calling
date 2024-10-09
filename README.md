@@ -16,4 +16,9 @@ limitations under the License.
 
 # Gemini Function Calling
 
-This notebook provides a simple example for using Function Calling within Gemini to access data from external API's for grounding. For more information please visit https://cloud.google.com/vertex-ai/generative-ai/docs/multimodal/function-calling#function-parameters-bp
+This notebook provides a simple example for using Function Calling within Gemini to access data from external API's for grounding. The example shows how to get the current time and weather information using two different external API endpoints while still maintaining the ability of the model to generate additional content outside of the grounding sources.
+
+
+In order to use this notebook, you will need to generate your own API key from https://www.weatherapi.com/. You can register with a free account to generate a new API key and then replace the text in the key.txt file.
+
+For more information please visit https://cloud.google.com/vertex-ai/generative-ai/docs/multimodal/function-calling#function-parameters-bp
